@@ -1,14 +1,5 @@
 {
-  "capital": 567.3404086180219,
-  "position": {
-    "side": "long",
-    "entry_price": 77327.7,
-    "entry_time": "2026-09-02T20:00:00+00:00",
-    "quantity": 0.029347331350500373,
-    "margin": 226.93616344720877,
-    "sl_price": 77134.38075,
-    "tp_price": 77714.33849999998,
-    "liq_price": 69594.93
-  },
-  "last_processed_time": 1788379200000
+  "capital": 564.3000001448787,
+  "position": null,
+  "last_processed_time": 1788380100000
 }
